@@ -1,0 +1,51 @@
+#caja-acerca {
+    padding: 15px;
+    width: 80%;
+    height: 10rem;
+    text-align: centers;
+    position: relative;
+    bottom: 1rem;
+    right: 10%;
+}
+
+.card{
+   
+    width: 25%;
+    position: relative;
+    left: 70%;
+    bottom: 12rem;
+    height: 22rem;
+}
+
+.card-title{
+    text-align: center;
+    padding: 10px;
+}
+.card-text{
+    padding: 4px;
+    
+}
+
+hr{
+    width: 55%;
+    position: relative;
+    bottom: 23rem;
+    left: 9%;
+    color: rgb(8, 8, 8);
+}
+
+#caja-expe{
+    
+    padding: 15px;
+    width: 80%;
+    height: 10rem;
+    text-align: centers;
+    position: relative;
+    bottom: 22rem;
+    right: 10%;
+}
+
+p{
+    font-size: 20px;
+}
+

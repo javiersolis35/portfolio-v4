@@ -1,0 +1,15 @@
+img{
+    width: 30%;
+    padding: 20px;
+}
+
+.skills-section{
+    position: relative;
+    bottom: 19rem;
+    padding: 50px;
+    background-color: rgba(31, 91, 186, 0.389);
+}
+h2{
+    text-align: center;
+    padding: 50px;
+}

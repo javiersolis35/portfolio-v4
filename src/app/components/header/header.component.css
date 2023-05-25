@@ -1,0 +1,34 @@
+/* #logo-v1{
+    
+    font-size: 1.5rem;
+    color: rgb(26, 24, 24);
+    overflow: hidden;
+    border-right: .15em solid orange;
+    white-space: nowrap;
+    animation: typing 0.9s steps(20, end) forwards, blinking .75s infinite;
+}
+
+@keyframes typing {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 6%;
+    }
+}
+
+@keyframes blinking{
+    from{
+        border-color: transparent;
+    }
+    to{
+        border-color: orange;
+    }
+}
+
+@media only screen and (min-width: 991px) {
+    #logo-v1{
+        width: 100%;
+    }
+} */
